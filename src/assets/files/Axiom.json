@@ -1,0 +1,211 @@
+[
+    {
+        "heading": "Tools Required",
+        "steps": [
+            { 
+                "details": "Microsoft Visual Studio:",
+                "isstep": true
+            },
+            { 
+                "details": "Please visit the link below to find how to raise a request for Visual Studio Professional 2019:",
+                "isstep": false
+            },
+            { 
+                "details": "https://qualcomm.service-now.com/sp?id=kb_article_view&sysparm_article=KB0015647",
+                "isstep": false
+            },
+            { 
+                "details": "Node",
+                "isstep": true
+            },
+            { 
+                "details": "GIT",
+                "isstep": true
+            },
+            { 
+                "details": "AngularCLI@6.2.1",
+                "isstep": true
+            },
+            { 
+                "details": "Node, GIT & AngularCLI can be directly downloaded as they are open source and freely available.",
+                "isstep": false
+            }
+        ]
+    },
+    {
+        "heading": "Email Groups",
+        "steps": [
+            { 
+                "details": "In order to access most of the AXIOM resources like source code etc., one needs to be part of following groups (or lists):",
+                "isstep": false
+            },
+            { 
+                "details": "AXIOM.Team",
+                "isstep": true
+            },
+            { 
+                "details": "QIPL.AXIOM.Team",
+                "isstep": true
+            },
+            { 
+                "details": "AXIOM.JIRA.Access",
+                "isstep": true
+            },
+            { 
+                "details": "AXIOM.Users",
+                "isstep": true
+            }
+        ]
+    },
+    {
+        "heading": "Joining a Group",
+        "steps": [
+            { 
+                "details": "Follow the below mentioned steps in order to join a group/list:",
+                "isstep": false
+            },
+            { 
+                "details": "Open qpeople.qualcomm.com",
+                "isstep": true
+            },
+            { 
+                "details": "Go to Search box, enter the group name and click Search",
+                "isstep": true
+            },
+            { 
+                "details": "Look for the group in the results and click",
+                "isstep": true
+            },
+            { 
+                "details": "Click on Join List",
+                "isstep": true
+            }
+        ]
+    },
+    {
+        "heading": "Trainings to complete",
+        "steps": [
+            { 
+                "details": "Secure Code Training",
+                "isstep": true
+            },
+            { 
+                "details": "CCI Training",
+                "isstep": true
+            },
+            { 
+                "details": "Qualcomm cybersecurity Training",
+                "isstep": true
+            },
+            { 
+                "details": "New Hire Safety Orientation Training",
+                "isstep": true
+            },
+            { 
+                "details": "AXIOM Training Videos - file://twinkle/Axiom/Training_Videos",
+                "isstep": true
+            }
+        ]
+    },
+    {
+        "heading": "Requesting Lab Access",
+        "steps": [
+            { 
+                "details": "Goto go/security access",
+                "isstep": true
+            },
+            { 
+                "details": "Click Badge Access",
+                "isstep": true
+            },
+            { 
+                "details": "Enter email if not prefilled. Employee name should be auto populated.",
+                "isstep": true
+            },
+            { 
+                "details": "Select \"India, Hyderabad\" in site, \"HYDRB.C\" in building and select \"260\" lab, Access type - 24/7",
+                "isstep": true
+            },
+            { 
+                "details": "Submit the details",
+                "isstep": true
+            }
+        ]
+    },
+    {
+        "heading": "Important links for reference",
+        "steps": [
+            { 
+                "details": "Go/oneIT - IT Portal for raising a new software request or reporting an issue",
+                "isstep": true
+            },
+            { 
+                "details": "Go/ess or Go/myview - ADP Global view for payroll related information like payslips and account information etc.",
+                "isstep": true
+            },
+            { 
+                "details": "Go/mysource - Portal for employee information",
+                "isstep": true
+            },
+            { 
+                "details": "Go/darwin - Manage health insurance, term insurance and non-insured benefits and plans",
+                "isstep": true
+            },
+            { 
+                "details": "Go/learnit - Portal for all mandatory trainings and other course material",
+                "isstep": true
+            },
+            { 
+                "details": "Go/security access - Requesting lab access",
+                "isstep": true
+            }
+        ]
+    },
+    {
+        "heading": "Configuring Email service",
+        "steps": [
+            { 
+                "details": "Go/mobileaccess",
+                "isstep": true
+            },
+            { 
+                "details": "Visit https://sharepoint.qualcomm.com/it/Home/IST/Airwatch/SitePages/installation.aspx and click on \"View Instructions\" under your type of device.",
+                "isstep": true
+            }
+        ]
+    },
+    {
+        "heading": "Abbreviations",
+        "steps": [
+            { 
+                "details": "QCT - Qualcomm Chipset Technology",
+                "isstep": true
+            },
+            { 
+                "details": "QTL - Qualcomm Technologies Limited",
+                "isstep": true
+            },
+            { 
+                "details": "Saga - Software Analytics and Global Automation",
+                "isstep": true
+            },
+            { 
+                "details": "QSWAT - Qualcomm Software Analytics & Tools",
+                "isstep": true
+            },
+            { 
+                "details": "CAT - Carrier Acceptance Testcases",
+                "isstep": true
+            }
+        ]
+    },    
+    {
+        "heading": "Download Document",
+        "steps": [
+            { 
+                "details": "https://qualcomm-my.sharepoint.com/:w:/p/sparasha_qti/ETL-5SDcwcZGtRVcJ9WhS30BWwAZ_qXcSx1vHZIfP1joLw?e=UFHh4H",
+                "isstep": false
+            }
+        ]
+    }
+]

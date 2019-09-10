@@ -35,3 +35,20 @@
   h1.example-app-name {
     margin-left: 8px;
   }
+
+  .sectionHeader{
+    margin-top: 8%;
+    margin-left: 5%;
+    font-weight: bold;
+    font-size: 2vw;
+  }
+
+  .sectionContent{
+    margin-top: 1%;
+    margin-left: 5%;
+    font-size: 0.8vw;
+  }
+
+  .noBullets{
+    list-style-type: none;
+  }
