@@ -14,7 +14,14 @@
       <div class="sectionHeader" *ngIf="selectedSection">{{selectedSection.heading}}</div>
       <div class="sectionContent">
         <ul *ngIf="selectedSection">
-            <li *ngFor="let step of selectedSection.steps" [className]="step.isstep ? '' : 'noBullets'">{{step.details}}</li>
+            <li *ngFor="let step of selectedSection.steps" [className]="step.isstep ? '' : 'noBullets'">
+                <ng-container *ngIf="step.isHyperlink">
+                    <a [attr.href]="step.details">{{step.details}}</a>
+                </ng-container>
+                <ng-container *ngIf="!step.isHyperlink">
+                    {{step.details}}
+                </ng-container>
+            </li>
         </ul>
       </div>
     </mat-sidenav-content>

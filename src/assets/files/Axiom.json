@@ -12,7 +12,8 @@
             },
             { 
                 "details": "https://qualcomm.service-now.com/sp?id=kb_article_view&sysparm_article=KB0015647",
-                "isstep": false
+                "isstep": false,
+                "isHyperlink": true
             },
             { 
                 "details": "Node",
@@ -204,7 +205,8 @@
         "steps": [
             { 
                 "details": "https://qualcomm-my.sharepoint.com/:w:/p/sparasha_qti/ETL-5SDcwcZGtRVcJ9WhS30BWwAZ_qXcSx1vHZIfP1joLw?e=UFHh4H",
-                "isstep": false
+                "isstep": false,
+                "isHyperlink": true
             }
         ]
     }
