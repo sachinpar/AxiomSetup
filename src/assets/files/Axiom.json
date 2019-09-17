@@ -55,6 +55,10 @@
             { 
                 "details": "AXIOM.Users",
                 "isstep": true
+            },
+            { 
+                "details": "Github.Users",
+                "isstep": true
             }
         ]
     },
